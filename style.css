@@ -1,0 +1,29 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+.play_button, .pause_button, .stop_button, .next_button
+{
+    width: 110px;
+    font-size: 22px;
+}
+.current-song
+{
+    font-size: 20px;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    width: 600px;
+    height: 500px;
+}
